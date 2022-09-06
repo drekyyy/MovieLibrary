@@ -11,8 +11,8 @@ REST methods implemented:
 - PATCH - updatePartially() updates any fields we want of a movie, by id
 - DELETE - delete() deletes the movie, by id
 <br />
-<br />
 to run:
+
 - mvn clean install
 - mvn spring-boot:run
 
